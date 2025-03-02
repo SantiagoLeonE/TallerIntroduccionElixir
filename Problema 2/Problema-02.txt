@@ -1,0 +1,25 @@
+Problema 03
+
+Abstracción
+¿Qué se solicita finalmente?
+- Registrar los libros disponibles de una librería
+
+¿Qué información es relevante dado el problema anterior?
+- El nombre del libro
+- Cantidad de unidades del libro 
+- El precio unitario
+
+Descomposición
+- Ingresar el nombre del libro (texto)
+- Ingresar la cantidad de unidades disponibles (entero)
+- Ingresar el precio unitario (real)
+- Calcular el valor total del inventario de ese libro
+- Generar el mensaje
+- Mostrar el mensaje
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- ingresar_texto
+- ingresar_entero
+- ingresar_real
+- mostrar_mensaje

@@ -1,0 +1,21 @@
+Problema 03
+
+Abstracción
+¿Qué se solicita finalmente?
+- Convertir temperaturas entre Celsius, Fahrenheit y Kelvin
+
+¿Qué información es relevante dado el problema anterior?
+- Temperatura en Celsius
+
+Descomposición
+- Pedir el nombre del usuario (texto)
+- Solicitar la temperatura en Celsisus (real)
+- Convertir la temperatura a Fahrenheit y Kelvin
+- Generar el mensaje
+- Mostrar el mensaje (1 decimal de precisión)
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- ingresar_texto
+- ingresar_real
+- mostrar_mensaje

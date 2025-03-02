@@ -1,0 +1,23 @@
+Problema 01
+
+Abstracción
+¿Qué se solicita finalmente?
+- Calcular el consumo de combustible de un vehículo
+
+¿Qué información es relevante dado el problema anterior?
+- Distancia recorrida en kilometros
+- Cantidad de combustible consumido en litros
+
+Descomposición
+- Ingresar el nombre del conductor (texto)
+- Ingresar la distancia recorrida en kilometros (real)
+- Ingresar la cantidad de combustible consumido en litros (real)
+- Calcular el rendimiento del vehículo  
+- Generar el mensaje
+- Mostrar el mensaje (2 decimales de precisión)
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- ingresar_texto
+- ingresar_real
+- mostrar_mensaje

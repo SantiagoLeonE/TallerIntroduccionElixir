@@ -1,0 +1,24 @@
+Problema 01
+
+Abstracción
+¿Qué se solicita finalmente?
+- Registrar la información de los vehículos que pasan
+
+¿Qué información es relevante dado el problema anterior?
+- La placa del vehículo
+- El tipo de vehículo (Carro, moto, camión)
+- El peso del vehículo en toneladas
+- Tarifas para los vehículos (Carro: 10000, Moto: 5000, Camión: 20000 + 2000 por tonelada adicional)
+
+Descomposición
+- Ingresar la placa del vehículo (texto)
+- Ingresar el tipo de vehículo (texto)
+- Ingresar el peso del vehículo en toneladas (real)
+- Asignar tarifas para los vehículos
+- Calcular el valor a pagar por el vehículo
+- Generar el mensaje
+- Mostrar el mensaje
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- 

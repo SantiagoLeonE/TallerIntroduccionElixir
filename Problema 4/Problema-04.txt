@@ -1,0 +1,27 @@
+Problema 01
+
+Abstracción
+¿Qué se solicita finalmente?
+- Calcular el salario total de un empleado
+
+¿Qué información es relevante dado el problema anterior?
+- El nombre del empleado
+- Salario base
+- Horas extras trabajadas 
+
+Descomposición
+- Pedir el nombre del empleado (texto)
+- Ingresar el salario base (real)
+- Ingresar el número de horas extras trabajadas (entero)
+- Calcular el valor de una hora normal
+- Calcular el valor de las horas extras trabajadas
+- Calcular el salario total
+- Generar el mensaje 
+- Mostrar el mensaje
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- ingresar_texto
+- ingresar_real
+- ingresar_entero
+- mostrar_mensaje

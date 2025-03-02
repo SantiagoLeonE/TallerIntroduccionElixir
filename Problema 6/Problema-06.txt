@@ -1,0 +1,22 @@
+Problema 01
+
+Abstracción
+¿Qué se solicita finalmente?
+- Calcular el costo de envío de un paquete
+
+¿Qué información es relevante dado el problema anterior?
+- Peso del paquete en kg
+- Tipo de envío (Económico, express, internacional)
+- Tarifas (Económico 5000 por kg, Express 8000 por kg, Internacional si el peso es <5kg 15000 por kg, y si el peso es >5kg 12000 por kg)
+
+Descomposición
+- Ingresar el nombre del cliente (texto)
+- Ingresar el peso del paquete en kg (real)
+- Ingresar el tipo de envío (Económico, Express, Internacional) (texto)
+- Calcular el costo de envío 
+- Generar el mensaje
+- Mostrar el mensaje
+
+Reconocimiento de patrones
+¿Qué puede reutilizar de la solución de otros problemas?
+- 
